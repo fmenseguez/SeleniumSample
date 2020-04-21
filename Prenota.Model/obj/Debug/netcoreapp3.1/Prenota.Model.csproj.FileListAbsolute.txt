@@ -1,0 +1,8 @@
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\bin\Debug\netcoreapp3.1\Prenota.Model.deps.json
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\bin\Debug\netcoreapp3.1\Prenota.Model.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\bin\Debug\netcoreapp3.1\Prenota.Model.pdb
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\obj\Debug\netcoreapp3.1\Prenota.Model.csprojAssemblyReference.cache
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\obj\Debug\netcoreapp3.1\Prenota.Model.AssemblyInfoInputs.cache
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\obj\Debug\netcoreapp3.1\Prenota.Model.AssemblyInfo.cs
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\obj\Debug\netcoreapp3.1\Prenota.Model.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\Prenota.Model\obj\Debug\netcoreapp3.1\Prenota.Model.pdb

@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\PrenotaConsole\\PrenotaConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\Prenota.Model\\Prenota.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\Prenota.Model\\Prenota.Model.csproj",
+        "projectName": "Prenota.Model",
+        "projectPath": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\Prenota.Model\\Prenota.Model.csproj",
+        "packagesPath": "C:\\Users\\AK281LK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\Prenota.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AK281LK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\PrenotaConsole\\PrenotaConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\PrenotaConsole\\PrenotaConsole.csproj",
+        "projectName": "PrenotaConsole",
+        "projectPath": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\PrenotaConsole\\PrenotaConsole.csproj",
+        "packagesPath": "C:\\Users\\AK281LK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\PrenotaConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AK281LK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\Prenota.Model\\Prenota.Model.csproj": {
+                "projectPath": "C:\\Users\\AK281LK\\source\\repos\\SeleniumTestProject\\Prenota.Model\\Prenota.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[80.0.3987.10600, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

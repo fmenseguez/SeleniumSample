@@ -1,0 +1,17 @@
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\PrenotaConsole.exe
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\settingsProfile.json
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\PrenotaConsole.deps.json
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\PrenotaConsole.runtimeconfig.json
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\PrenotaConsole.runtimeconfig.dev.json
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\PrenotaConsole.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\PrenotaConsole.pdb
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\obj\Debug\netcoreapp3.1\PrenotaConsole.AssemblyInfoInputs.cache
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\obj\Debug\netcoreapp3.1\PrenotaConsole.AssemblyInfo.cs
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\obj\Debug\netcoreapp3.1\PrenotaConsole.csproj.CopyComplete
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\obj\Debug\netcoreapp3.1\PrenotaConsole.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\obj\Debug\netcoreapp3.1\PrenotaConsole.pdb
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\obj\Debug\netcoreapp3.1\PrenotaConsole.csprojAssemblyReference.cache
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\Prenota.Model.dll
+C:\Users\AK281LK\source\repos\SeleniumTestProject\PrenotaConsole\bin\Debug\netcoreapp3.1\Prenota.Model.pdb

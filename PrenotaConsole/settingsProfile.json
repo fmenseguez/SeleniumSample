@@ -1,0 +1,105 @@
+{
+  "LoginData": {
+    "Username": "federico.menseguez@gmail.com",
+    "Password": "Fede2807"
+  },
+  "InformacionAdicional": [
+    {
+      "FormField": "Declaro poseer la documentacion completa (S/N)",
+      "ValueField": "S"
+    },
+    {
+      "FormField": "Direccion correo electronico",
+      "ValueField": "FEDERICO.MENSEGUEZ@GMAIL.COM"
+    },
+    {
+      "FormField": "Direccion de domicilio completa",
+      "ValueField": "ESPINOSA NEGRETE 442"
+    },
+    {
+      "FormField": "Estado Civil",
+      "ValueField": "S"
+    },
+    {
+      "FormField": "Fecha de defuncion del antepasado italiano",
+      "ValueField": "01111921"
+    },
+    {
+      "FormField": "Fecha de nacimiento de la madre del solicitante",
+      "ValueField": "18011960"
+    },
+    {
+      "FormField": "Fecha de nacimiento del antepasado italiano",
+      "ValueField": "01011866"
+    },
+    {
+      "FormField": "Fecha de nacimiento del hijo del antepasado",
+      "ValueField": "24081895"
+    },
+    {
+      "FormField": "Fecha de nacimiento del padre del solicitante",
+      "ValueField": "13041964"
+    },
+    {
+      "FormField": "Grado de parentezco con el antepasado italiano",
+      "ValueField": "TATARANIETO"
+    },
+    {
+      "FormField": "Hijos menores (0,1,2,3,...)",
+      "ValueField": "0"
+    },
+    {
+      "FormField": "Lei las instrucciones (S/N)",
+      "ValueField": "S"
+    },
+
+    {
+      "FormField": "Lugar de nacimiento de la madre del solicitante",
+      "ValueField": "CORDOBA"
+    },
+
+    {
+      "FormField": "Lugar de nacimiento del hijo del antepasado",
+      "ValueField": "SANTA FE"
+    },
+
+    {
+      "FormField": "Lugar de nacimiento del padre del solicitante",
+      "ValueField": "CORDOBA"
+    },
+
+    {
+      "FormField": "Nombre y Apellido del antepasado nacido en Italia",
+      "ValueField": "DOMENICO MICHELE BONETTO"
+    },
+
+    {
+      "FormField": "Nombre y appellido de la madre del solicitante",
+      "ValueField": "MARIA AMELIA ABACA"
+    },
+    {
+      "FormField": "Nombre y appellido del hijo del antepasado",
+      "ValueField": "JUAN BONETTO"
+    },
+    {
+      "FormField": "Nombre y appellido del padre del solicitante",
+      "ValueField": "MARIO DANTE MENSEGUEZ"
+    },
+    {
+      "FormField": "Profesion del solicitante",
+      "ValueField": "INFORMATICO"
+    },
+    {
+      "FormField": "Pueblo de origen del antepasado italiano",
+      "ValueField": "LUSERNETTA"
+    },
+    {
+      "FormField": "Telefono Movil",
+      "ValueField": "543513104918"
+    },
+    {
+      "FormField": "Titulo de estudio del solicitante",
+      "ValueField": "ANALISTA EN SISTEMAS DE COMPUTACION"
+    }
+  ]
+}
